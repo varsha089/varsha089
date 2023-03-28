@@ -1,6 +1,6 @@
 ![MasterHead](https://thumbs.dreamstime.com/b/web-programming-banner-technology-concept-people-connections-internet-business-mixed-media-219287770.jpg)
 <h1 align="center">Hi 👋, I'm Varsha Ahirwar</h1>
-<h3 align="center">A passionate Python developer from India</h3>
+<h3 align="center">A passionate Python developer & B.Tech Information technology student from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5t25mw9ZSdvlG-mVue69-5V8cEsvZowVzhw&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varsha089&label=Profile%20views&color=0e75b6&style=flat" alt="varsha089" /> </p>
