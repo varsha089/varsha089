@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.dreamstime.com/b/kid-coding-computer-programming-paper-cut-banner-generative-ai-268952207.jpg)]
+![MasterHead](https://thumbs.dreamstime.com/b/web-programming-banner-technology-concept-people-connections-internet-business-mixed-media-219287770.jpg)
 <h1 align="center">Hi 👋, I'm Varsha Ahirwar</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5t25mw9ZSdvlG-mVue69-5V8cEsvZowVzhw&usqp=CAU">
